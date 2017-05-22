@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Post Grotesk Regular", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -81,7 +81,7 @@ html {
   color: #fff;
   margin-top: 0;
 
-  font-family: "Post Grotesk Bold", serif;
+  font-family: "Roboto", sans-serif;
   font-size: 25px;
 }
 

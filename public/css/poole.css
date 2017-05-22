@@ -36,15 +36,6 @@
  */
 
 
-@font-face {
-  font-family: 'Post Grotesk Regular';
-  src: url('PostGrotesk-Regular.eot');
-  src: url('PostGrotesk-Regular.eot?#iefix') format('embedded-opentype'),
-    url('PostGrotesk-Regular.woff') format('woff'),
-    url('PostGrotesk-Regular.ttf') format('truetype');
-  font-weight: 500;
-  font-style: normal;
-}
 
 
 * {
@@ -60,7 +51,7 @@ body {
 }
 
 html {
-  font-family: "Post Grotesk Regular", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -404,7 +395,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: 0;
   margin-right: 0;
-  font-family: "Post Grotesk Regular", Helvetica, Arial, sans-serif;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
 }
