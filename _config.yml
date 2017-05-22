@@ -1,0 +1,28 @@
+# Dependencies
+markdown:         redcarpet
+#highlighter:      pygments
+highlighter: rogue
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Micaela Parente
+tagline:          'Personal website'
+description:      'This is my bio.'
+url:              http://micaelaparente.github.io
+baseurl:          /
+
+
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+# Gems
+gems:
+  - jekyll-paginate
+  - redcarpet
+  - jekyll-gist
+  - pygments.rb
+  
