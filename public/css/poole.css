@@ -260,6 +260,12 @@ tbody tr:nth-child(odd) th {
   font-weight: 300;
 }
 
+@media(max-width: 700px){
+  .lead {
+  display: none;
+}
+}
+
 
 /*
  * Messages
