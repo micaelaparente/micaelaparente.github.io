@@ -35,6 +35,18 @@
  * Update the foundational and global aspects of the page.
  */
 
+
+@font-face {
+  font-family: 'Post Grotesk Regular';
+  src: url('PostGrotesk-Regular.eot');
+  src: url('PostGrotesk-Regular.eot?#iefix') format('embedded-opentype'),
+    url('PostGrotesk-Regular.woff') format('woff'),
+    url('PostGrotesk-Regular.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -431,3 +443,5 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+
