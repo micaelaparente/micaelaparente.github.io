@@ -35,6 +35,15 @@ html {
   font-family: "Sailec", Helvetica, Arial, sans-serif;
 }
 
+@font-face {
+  font-family: 'Sailec';
+  src: url('Sailec-Regular.eot');
+  src: url('Sailec-Regular.eot?#iefix') format('embedded-opentype'),
+    url('Sailec-Regular.woff') format('woff'),
+    url('Sailec-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 
 
 /*
@@ -86,7 +95,7 @@ html {
   padding-right: 0%;
   margin-right: 60%;
   line-height: 1.75;
-  font-weight: lighter;
+  font-weight: normal;
 
 }
 .sidebar-nav-item.active {
