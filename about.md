@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: About me.
 ---
 
 <p class="message">

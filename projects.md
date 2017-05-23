@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+description: Things I did in the past.
 ---
 
 
