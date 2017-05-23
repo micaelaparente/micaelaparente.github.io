@@ -44,6 +44,16 @@
           box-sizing: border-box;
 }
 
+@font-face {
+  font-family: 'Sailec';
+  src: url('Sailec-Regular.eot');
+  src: url('Sailec-Regular.eot?#iefix') format('embedded-opentype'),
+    url('Sailec-Regular.woff') format('woff'),
+    url('Sailec-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 html,
 body {
   margin: 0;
