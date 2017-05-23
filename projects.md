@@ -1,20 +1,24 @@
 ---
 layout: page
 title: Projects
-description: Things I did in the past.
+description: Projects I worked on.
 ---
 
+<div class="project-list">
 
-<p class="message">
-  Hey there! This is a page where my projects will go in.
-</p>
+<div class="project-item">
+<a href="/projects/case/">
+<img src="http://placehold.it/350x200"> <p>Case name</p></a></div>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<div class="project-item">
+<a href="/projects/case/">
+<img src="http://placehold.it/350x200"> <p>Case name</p></a></div>
 
-There are currently two themes built on Poole:
+<div class="project-item">
+<a href="/projects/case/">
+<img src="http://placehold.it/350x200"> <p>Case name</p></a></div>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
+<div class="project-item">
+<a href="/projects/case/">
+<img src="http://placehold.it/350x200"> <p>Case name</p></a></div>
+</div>
