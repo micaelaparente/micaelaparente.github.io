@@ -55,11 +55,6 @@ html {
   font-size: 16px;
   line-height: 1.5;
 }
-@media (min-width: 38em) {
-  html {
-    font-size: 20px;
-  }
-}
 
 body {
   color: #000000;
@@ -91,11 +86,11 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 25px;
+  font-size: 17px;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 20px;
+  font-size: 16px;
 }
 h3 {
   margin-top: 1.5rem;
