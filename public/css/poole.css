@@ -51,7 +51,7 @@ body {
 }
 
 html {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Sailec", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -395,7 +395,7 @@ tbody tr:nth-child(odd) th {
   margin-left: 0;
   margin-right: 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: "Sailec", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
   padding: 0 0;
