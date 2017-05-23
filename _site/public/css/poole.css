@@ -330,10 +330,10 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-top: 2em;
   margin-left: 0px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-  padding-bottom: 4em;
+  padding-bottom: 2em;
 
 }
 
@@ -394,6 +394,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: 0;
   margin-right: 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
