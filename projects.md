@@ -3,6 +3,7 @@ layout: page
 title: Projects
 ---
 
+
 <p class="message">
   Hey there! This is a page where my projects will go in.
 </p>
