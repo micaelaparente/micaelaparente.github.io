@@ -358,7 +358,9 @@ tbody tr:nth-child(odd) th {
   padding-bottom: 2em;
 
 }
-
+.post:last-child {
+  border-bottom: 0px;
+}
 
 /* Blog post or page title */
 .page-title,
@@ -424,7 +426,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: 0;
   margin-right: 0;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  
   font-family: "Sailec", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
@@ -441,9 +443,7 @@ tbody tr:nth-child(odd) th {
   border: 1px solid;
   background-color: #f5f5f5;
 }
-.pagination-item:first-child {
-  margin-bottom: -1px;
-}
+
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
