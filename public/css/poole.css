@@ -449,7 +449,10 @@ tbody tr:nth-child(odd) th {
 a.pagination-item:hover {
   background-color: #ccc;
 }
-
+a.pagination-item {
+  border-color: #696969;
+  color: #202020;
+}
 @media (min-width: 700px) {
   .pagination {
     margin: 0 0;
