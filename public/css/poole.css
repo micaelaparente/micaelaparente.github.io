@@ -440,7 +440,8 @@ tbody tr:nth-child(odd) th {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid;
+  border-top: 1px solid;
+  border-right: 1px solid;
   background-color: #f5f5f5;
 }
 
