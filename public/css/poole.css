@@ -429,12 +429,17 @@ tbody tr:nth-child(odd) th {
   color: #ccc;
   text-align: center;
   padding: 0 0;
+  position: absolute;
+  left: 0px;
+  right:0px;
 }
 
 /* Pagination items can be `span`s or `a`s */
 .pagination-item {
   display: block;
   padding: 1rem;
+  border: 1px solid;
+  background-color: #f5f5f5;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
@@ -442,12 +447,15 @@ tbody tr:nth-child(odd) th {
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: #f5f5f5;
+  background-color: #ccc;
 }
 
 @media (min-width: 700px) {
   .pagination {
     margin: 0 0;
+    position: absolute;
+    left: 240px;
+    right: 0px;
   }
   .pagination-item {
     float: left;
