@@ -4,7 +4,7 @@
  <title>Micaela Parente</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-05-24T17:18:36+02:00</updated>
+ <updated>2017-05-24T17:29:49+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -14,153 +14,9 @@
  
  <entry>
    <title>Want to learn something new? Subscribe to a newsletter.</title>
-   <link href="http://localhost:4000/2017/05/19/newsletters/"/>
-   <updated>2017-05-19T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2017/05/19/newsletters</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;tl;dr: Newsletters are an easy and cheap way to discover where you should start when learning something new.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;My love for newsletters flourished after I joined Huge, a digital design agency where I am part of the Strategy team. Back then, I made a significant career switch (I previously worked at the Finance department of a big company) that required me to learn a lot about areas like User Experience (UX) and Technology, in which I had no prior knowledge due to my academic background.
-This was an intense process that involved reading books, attending to online courses and of course, Googling a lot. But subscribing to newsletters, in my opinion, proved to be the most cost-effective way to start learning a new subject.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-newsletters-will-help-you-learn&quot;&gt;How newsletters will help you learn.&lt;/h2&gt;
-
-&lt;p&gt;One major problem when trying to learn something new is to figure out where you should start and what to focus on. There is a lot of information available, and sooner or later, if you are a curious learner (like I am) you end up falling into the rabbit hole of learning useless details. And that’s how newsletters will help you the most: they curate important information from an area, on a regular basis. And they are (mostly) free.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*kadGTJYhjIlXhej847OoAg.png&quot; alt=&quot;Data Science Weekly&quot; title=&quot;Data Science Weekly&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;At first, you may get overwhelmed by unknown terms or technical details. But this is exactly your starting point. Identifying repeating terms across weeks, or even repeating articles across different newsletters will give you a hint of what you should probably know about that area.&lt;/p&gt;
-
-&lt;p&gt;In the long term, reading newsletters will keep you informed about that theme. This is specially important when we talk about internet, since new technologies and products emerge everyday. Newsletters are also a great tool to help you build relationships with people from different areas without having to go deep into complex concepts.&lt;/p&gt;
-
-&lt;p&gt;Trust me, they are great!&lt;/p&gt;
-
-&lt;p&gt;Enough said, here are some of my current subscriptions, organized by subject:&lt;/p&gt;
-
-&lt;h2 id=&quot;ux-design&quot;&gt;UX Design&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;UX Booth: a wrap up of new articles from the UX community.&lt;/li&gt;
-  &lt;li&gt;UX Design Weekly: a curated list of UX design links.&lt;/li&gt;
-  &lt;li&gt;Designer News: top stories for people interested in design, weekly.&lt;/li&gt;
-  &lt;li&gt;Sidebar: the 5 best design links, everyday.&lt;/li&gt;
-  &lt;li&gt;Panda Weekly: daily design news and inspiration.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;data&quot;&gt;Data&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Avinash Kaushik’s TMAI: short stories about digital marketing and analytics.&lt;/li&gt;
-  &lt;li&gt;Data Science Weekly: a mix of articles and learning resources on data science.&lt;/li&gt;
-  &lt;li&gt;Mode’s Analytics Dispatch: articles about data, analytics and data science.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;product-management&quot;&gt;Product Management&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Mind the product: curated articles and upcoming events on product management.&lt;/li&gt;
-  &lt;li&gt;Product Manager HQ: resources for product managers.&lt;/li&gt;
-  &lt;li&gt;Inside Intercom: a mix of articles about product strategy, business, design and engineering.&lt;/li&gt;
-  &lt;li&gt;Product Buff: a curated list of articles and resources for PMs.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;web-development&quot;&gt;Web development&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;CSS Weekly: articles, tutorials, news and experiments.&lt;/li&gt;
-  &lt;li&gt;HTML5Weekly: browser technologies and releases, weekly.&lt;/li&gt;
-  &lt;li&gt;JavaScript Weekly: Javascript news and articles.&lt;/li&gt;
-  &lt;li&gt;DB Weekly: database technology news and articles.&lt;/li&gt;
-  &lt;li&gt;Smashing Newsletter: tips, tricks and resources for designers/developers.&lt;/li&gt;
-  &lt;li&gt;WDRL: a weekly selection of resources on web development.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;industry-news&quot;&gt;Industry news&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Mattermark: news about investing, startups and tech.&lt;/li&gt;
-  &lt;li&gt;Benedict Evans: news about the startup ecossystem.&lt;/li&gt;
-  &lt;li&gt;MIT Technology Review: news about emerging technologies and its impact in society.&lt;/li&gt;
-  &lt;li&gt;Hacker Newsletter: curated articles on startups, programming and tech.&lt;/li&gt;
-  &lt;li&gt;Springwise: innovation cases from around the world.&lt;/li&gt;
-  &lt;li&gt;VentureBeat: great source for latest tech news and analysis.&lt;/li&gt;
-  &lt;li&gt;Product Hunt: surfaces the best new products as voted by the tech community.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Want to learn something new? Subscribe to a newsletter.</title>
    <link href="http://localhost:4000/2016/05/19/newsletters/"/>
    <updated>2016-05-19T00:00:00+02:00</updated>
    <id>http://localhost:4000/2016/05/19/newsletters</id>
-   <content type="html">&lt;p&gt;&lt;em&gt;tl;dr: Newsletters are an easy and cheap way to discover where you should start when learning something new.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;My love for newsletters flourished after I joined Huge, a digital design agency where I am part of the Strategy team. Back then, I made a significant career switch (I previously worked at the Finance department of a big company) that required me to learn a lot about areas like User Experience (UX) and Technology, in which I had no prior knowledge due to my academic background.
-This was an intense process that involved reading books, attending to online courses and of course, Googling a lot. But subscribing to newsletters, in my opinion, proved to be the most cost-effective way to start learning a new subject.&lt;/p&gt;
-
-&lt;h2 id=&quot;how-newsletters-will-help-you-learn&quot;&gt;How newsletters will help you learn.&lt;/h2&gt;
-
-&lt;p&gt;One major problem when trying to learn something new is to figure out where you should start and what to focus on. There is a lot of information available, and sooner or later, if you are a curious learner (like I am) you end up falling into the rabbit hole of learning useless details. And that’s how newsletters will help you the most: they curate important information from an area, on a regular basis. And they are (mostly) free.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*kadGTJYhjIlXhej847OoAg.png&quot; alt=&quot;Data Science Weekly&quot; title=&quot;Data Science Weekly&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;At first, you may get overwhelmed by unknown terms or technical details. But this is exactly your starting point. Identifying repeating terms across weeks, or even repeating articles across different newsletters will give you a hint of what you should probably know about that area.&lt;/p&gt;
-
-&lt;p&gt;In the long term, reading newsletters will keep you informed about that theme. This is specially important when we talk about internet, since new technologies and products emerge everyday. Newsletters are also a great tool to help you build relationships with people from different areas without having to go deep into complex concepts.&lt;/p&gt;
-
-&lt;p&gt;Trust me, they are great!&lt;/p&gt;
-
-&lt;p&gt;Enough said, here are some of my current subscriptions, organized by subject:&lt;/p&gt;
-
-&lt;h2 id=&quot;ux-design&quot;&gt;UX Design&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;UX Booth: a wrap up of new articles from the UX community.&lt;/li&gt;
-  &lt;li&gt;UX Design Weekly: a curated list of UX design links.&lt;/li&gt;
-  &lt;li&gt;Designer News: top stories for people interested in design, weekly.&lt;/li&gt;
-  &lt;li&gt;Sidebar: the 5 best design links, everyday.&lt;/li&gt;
-  &lt;li&gt;Panda Weekly: daily design news and inspiration.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;data&quot;&gt;Data&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Avinash Kaushik’s TMAI: short stories about digital marketing and analytics.&lt;/li&gt;
-  &lt;li&gt;Data Science Weekly: a mix of articles and learning resources on data science.&lt;/li&gt;
-  &lt;li&gt;Mode’s Analytics Dispatch: articles about data, analytics and data science.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;product-management&quot;&gt;Product Management&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Mind the product: curated articles and upcoming events on product management.&lt;/li&gt;
-  &lt;li&gt;Product Manager HQ: resources for product managers.&lt;/li&gt;
-  &lt;li&gt;Inside Intercom: a mix of articles about product strategy, business, design and engineering.&lt;/li&gt;
-  &lt;li&gt;Product Buff: a curated list of articles and resources for PMs.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;web-development&quot;&gt;Web development&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;CSS Weekly: articles, tutorials, news and experiments.&lt;/li&gt;
-  &lt;li&gt;HTML5Weekly: browser technologies and releases, weekly.&lt;/li&gt;
-  &lt;li&gt;JavaScript Weekly: Javascript news and articles.&lt;/li&gt;
-  &lt;li&gt;DB Weekly: database technology news and articles.&lt;/li&gt;
-  &lt;li&gt;Smashing Newsletter: tips, tricks and resources for designers/developers.&lt;/li&gt;
-  &lt;li&gt;WDRL: a weekly selection of resources on web development.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;industry-news&quot;&gt;Industry news&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Mattermark: news about investing, startups and tech.&lt;/li&gt;
-  &lt;li&gt;Benedict Evans: news about the startup ecossystem.&lt;/li&gt;
-  &lt;li&gt;MIT Technology Review: news about emerging technologies and its impact in society.&lt;/li&gt;
-  &lt;li&gt;Hacker Newsletter: curated articles on startups, programming and tech.&lt;/li&gt;
-  &lt;li&gt;Springwise: innovation cases from around the world.&lt;/li&gt;
-  &lt;li&gt;VentureBeat: great source for latest tech news and analysis.&lt;/li&gt;
-  &lt;li&gt;Product Hunt: surfaces the best new products as voted by the tech community.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Want to learn something new? Subscribe to a newsletter.</title>
-   <link href="http://localhost:4000/2015/05/19/newsletters/"/>
-   <updated>2015-05-19T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2015/05/19/newsletters</id>
    <content type="html">&lt;p&gt;&lt;em&gt;tl;dr: Newsletters are an easy and cheap way to discover where you should start when learning something new.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;My love for newsletters flourished after I joined Huge, a digital design agency where I am part of the Strategy team. Back then, I made a significant career switch (I previously worked at the Finance department of a big company) that required me to learn a lot about areas like User Experience (UX) and Technology, in which I had no prior knowledge due to my academic background.
