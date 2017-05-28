@@ -142,12 +142,10 @@ html {
  */
 
 .content {
-  max-width: 900px;
   padding-left: 5%;
   padding-top: 5%;
   padding-right: 5%;
   margin-bottom: 5%;
-  margin-left: auto;
   margin-right: auto;
   margin-top: 0;
   display: block;
@@ -155,11 +153,12 @@ html {
 
 @media (min-width: 700px) {
   .content {
-    margin-left: 260px;
-    margin-right: 0;
+    margin-left: 240px;
     padding-top: 40px;
-    display: block;
     margin-bottom: 40px;
+    padding-left: 8.5%;
+    padding-right: 8.5%;
+    
   }
 }
 
