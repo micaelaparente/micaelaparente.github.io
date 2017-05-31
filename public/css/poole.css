@@ -45,12 +45,21 @@
 }
 
 @font-face {
-  font-family: 'Sailec';
+  font-family: 'Sailec-Regular';
   src: url('Sailec-Regular.eot');
   src: url('Sailec-Regular.eot?#iefix') format('embedded-opentype'),
     url('Sailec-Regular.woff') format('woff'),
     url('Sailec-Regular.ttf') format('truetype');
   font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sailec-Bold';
+  src: url('Sailec-Bold.eot');
+  src: url('Sailec-Bold.eot?#iefix') format('embedded-opentype'),
+    url('Sailec-Bold.woff') format('woff'),
+    url('Sailec-Bold.ttf') format('truetype');
+  font-weight: bold;
   font-style: normal;
 }
 
@@ -61,7 +70,7 @@ body {
 }
 
 html {
-  font-family: "Sailec", Helvetica, Arial, sans-serif;
+  font-family: "Sailec-Regular", sans-serif, Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -90,17 +99,17 @@ a:focus {
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
-  font-weight: bold;
+  font-weight: bolder;
   line-height: 1.25;
   color: #313131;
-  text-rendering: optimizeLegibility;
+  #text-rendering: optimizeLegibility;
 }
 h1 {
   font-size: 17px;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 16px;
+  font-size: 17px;
 }
 h3 {
   margin-top: 1.5rem;
@@ -426,7 +435,7 @@ tbody tr:nth-child(odd) th {
   margin-left: 0;
   margin-right: 0;
   
-  font-family: "Sailec", Helvetica, Arial, sans-serif;
+  font-family: "Sailec-Regular", sans-serif, Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
   padding: 0 0;
