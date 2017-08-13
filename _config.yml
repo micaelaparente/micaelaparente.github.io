@@ -3,16 +3,16 @@
 #highlighter:      pygments
 #highlighter: rogue
 # Permalinks
-permalink:        pretty
+permalink:        /:title/
 
 # Setup
 title:            Micaela Parente
 tagline:          'Personal website'
-description:      'Data, product, etc.'
+description:      'Product, data, etc.'
 url:              micaelaparente.github.io
 baseurl:          /
 
-
+include: ["_pages"]
 
 paginate:         1
 

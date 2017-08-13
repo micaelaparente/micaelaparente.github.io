@@ -111,6 +111,28 @@ html {
   border-bottom: 1px solid;
 }
 
+.nav-icons{
+  position: absolute;
+  bottom: 40px;
+}
+
+.contact-icons{
+  
+  height: 20px;
+  width: 20px;
+  margin-bottom: 0px;
+  margin-right: 20px;
+  float: left;
+  display: inline;
+
+}
+
+@media (max-width: 700px){
+.contact-icons {
+  display: none;
+}
+}
+
 @media (max-width: 700px) {
 .sidebar-nav-item {
   display: inline;
@@ -169,20 +191,6 @@ html {
     padding-right: 8.5%;
     
   }
-}
-
-.projects-list{
-  min-width: 700px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-}
-
-}
-
-.project-item{
-  width: 50%;
-  padding-right: 10px;
 }
 
 

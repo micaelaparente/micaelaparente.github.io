@@ -484,7 +484,6 @@ a.pagination-item {
 }
 .project-item{
   width:48.5%; 
-  
   float: left;
   position: relative;
 }
@@ -505,4 +504,24 @@ div.project-item a img:hover{
   .project-item{
   width:100%; }
 }
+
+.brands-list{
+  display: flex; 
+  flex-wrap:wrap; 
+  justify-content: space-between;
+}
+
+.brand-item{
+  width:15%; 
+  float: left;
+  position: relative;
+}
+
+@media (max-width: 900px){
+  .brand-item{
+    width: 30%;
+  }
+}
+
+
 
