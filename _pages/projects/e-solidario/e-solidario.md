@@ -2,7 +2,7 @@
 layout: sub-page
 title: E-Solidário (2015)
 description: A brand new website and blog.
-permalink: "/projects/e-solidario"
+permalink: "/projects/e-solidario/"
 ---
 
 A detailed description will be added soon.

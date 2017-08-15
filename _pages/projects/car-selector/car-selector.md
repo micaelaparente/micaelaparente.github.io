@@ -2,7 +2,7 @@
 layout: sub-page
 title: Car Selector (2017)
 description: Using NLP to help users choose a car.
-permalink: "/projects/car-selector"
+permalink: "/projects/car-selector/"
 ---
 
 Choosing a car is a tough decision. If you are not familiar with brands or  don't know the ins and outs of the automotive world, what starts with "I want a simple, reliable car to commute everyday to work" can quickly become a nightmare.

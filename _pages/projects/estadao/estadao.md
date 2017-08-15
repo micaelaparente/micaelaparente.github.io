@@ -2,7 +2,7 @@
 layout: sub-page
 title: Estadão (2015)
 description: Mobile strategy for Estadão.
-permalink: "/projects/estadao"
+permalink: "/projects/estadao/"
 ---
 
 A detailed description will be added soon.

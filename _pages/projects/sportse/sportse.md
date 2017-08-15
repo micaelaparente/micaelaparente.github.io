@@ -2,7 +2,7 @@
 layout: sub-page
 title: Sportse (2016)
 description: My own startup for a couple of months.
-permalink: "/projects/sportse"
+permalink: "/projects/sportse/"
 ---
 
 A detailed description will be added soon.

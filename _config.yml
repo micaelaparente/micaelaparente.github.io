@@ -14,11 +14,7 @@ baseurl:          /
 
 include: ["_pages", 
 "assets", 
-"public", 
-"sportse",
-"estadao",
-"e-solidario",
-"car-selector"]
+"public"]
 
 paginate:         1
 
