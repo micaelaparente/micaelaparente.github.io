@@ -17,19 +17,19 @@ I solved problems to:
 <div class="brands-list">
 
 <div class="brand-item">
-<img src="/assets/logo-estadao.png" ></div>
+<img src="{{ site.baseurl }}assets/logo-estadao.png" ></div>
 
 <div class="brand-item">
-<img src="/assets/logo-elsevier.png"></div>
+<img src="{{ site.baseurl }}assets/logo-elsevier.png"></div>
 
 <div class="brand-item">
-<img src="/assets/logo-motorola.png"></div>
+<img src="{{ site.baseurl }}assets/logo-motorola.png"></div>
 
 <div class="brand-item">
-<img src="/assets/logo-coca.png"></div>
+<img src="{{ site.baseurl }}assets/logo-coca.png"></div>
 
 <div class="brand-item">
-<img src="/assets/logo-whirlpool.png"></div>
+<img src="{{ site.baseurl }}assets/logo-whirlpool.png"></div>
 
 <div class="brand-item">
 <img src="/assets/logo-globo.png"></div> </div>

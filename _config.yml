@@ -12,7 +12,7 @@ description:      'Product, data, etc.'
 url:              micaelaparente.github.io
 baseurl:          /
 
-include: ["_pages"]
+include: ["_pages", "assets"]
 
 paginate:         1
 
