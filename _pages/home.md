@@ -13,6 +13,7 @@ permalink: "/"
 
 
     <div class="home" style="background: url(/assets/home.jpg) repeat 100% 100%"></div>
+    <p> test </p>
 
     
   </body>
