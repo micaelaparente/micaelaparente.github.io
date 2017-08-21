@@ -12,8 +12,7 @@ permalink: "/"
     {% include sidebar.html %}
 
 
-    <div class="home" style="background: url(/assets/home.jpg) repeat 100% 100%"></div>
-    <p> test </p>
+    <div class="home" style="background: url(../assets/home.jpg) repeat 100% 100%"></div>
 
     
   </body>
