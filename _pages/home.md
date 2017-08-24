@@ -1,19 +1,14 @@
 ---
 permalink: "/"
+layout: home
 ---
 <html lang="en-us">
 
-  {% include head.html %}
+
+
+<div class="home" style="background: url(/assets/home.jpg) repeat 100% 100%">
+	
+</div>
+
   
-
-
-  <body>
-
-    {% include sidebar.html %}
-
-
-    <div class="home" style="background: url(../assets/home.jpg) repeat 100% 100%"></div>
-
-    
-  </body>
 </html>
