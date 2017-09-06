@@ -6,7 +6,7 @@ layout: home
 
 
 
-<div class="home" style="background: url(/assets/home.jpg) repeat 100% 100%">
+<div class="content container" style="background: url(/assets/home.jpg) repeat 70% 60%; height: 100%; margin-bottom: 0">
 	
 </div>
 
