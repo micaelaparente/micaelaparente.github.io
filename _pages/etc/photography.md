@@ -5,8 +5,6 @@ description: I also enjoy photographing.
 permalink: "/photography/"
 ---
 
-<img src="/assets/photo/07.jpg">
-<p style="margin-top: -10px">Utrecht, 2017</p>
 
 <img src="/assets/photo/01.jpg">
 <p style="margin-top: -10px">New York, 2015</p>
