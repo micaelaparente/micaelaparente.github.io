@@ -25,13 +25,13 @@ Going out of the building and talking to as many people as we could in a few hou
 <strong>The solution</strong>
 
 We envisioned Sportse as a platform with 2 core components: partners and activities, and they helped people practice sports in a complementary way. 
-- <strong>Activities:</strong> For those curious about a new sport, going to an activity nearby was the perfect way to get familiar with it and integrate with its community. Activities could be organized by individuals for free, or by companies wanting to promote their brand.
+- <strong>Activities:</strong> For those curious about a new sport, going to a nearby activity was the perfect way to get familiar with it and integrate with its community. Activities could be organized by individuals for free, or by companies wanting to promote their brand.
 - <strong>Partners: </strong>For those wanting someone to practice with, finding a partner was easy. You add your skills and available schedule, and Sportse matches you with potential partners around you. Professional instructors could also subscribe to Sportse and be featured as expert partners for a sport.
 
 <strong>MVP</strong>
 
 Based on our ambitious vision for Sportse, we scoped our MVP to simply list existing activities for a small set of niche sports in Rio de Janeiro. To do so, we mapped real existing sport activities in the city and used a free website builder to consolidate relevant information about classes, regular practice groups and events. The MVP is actually still live <a href="http://sportse-dev.webflow.io/">here</a>.
 
-<strong>The outcome</strong>
+<strong>The end</strong>
 
 There are a couple of reasons why we decided to archive Sportse, but it was definitely a great learning experience for all of us. I learnt a lot about the importance of launching fast instead of crafting the perfect product, and how a great team can make a great project. 
