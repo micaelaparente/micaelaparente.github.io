@@ -6,13 +6,14 @@ permalink: "/about/"
 ---
 
 I'm Micaela, a Brazilian/Portuguese engineer living in the charming city of Utrecht, where I'm finishing my master's in Information Science. 
-I work at the intersection of product and data, and I love to develop new solutions that are good for businesses and users.
+I work at the intersection of product and data, and I love developing new solutions that are good for businesses and users.
+
 
 <div class="masthead">
     
     </div>
 
-I solved problems to:
+Some of the companies I already solved problems to:
 
 <div class="brands-list">
 
@@ -38,6 +39,6 @@ I solved problems to:
     
     </div>
 
-If you want to say Hi or learn more about projects I worked at, please reach me at <a href="mailto:micaelagparente@gmail.com?Subject=Hi!" target="_top">micaelagparente@gmail.com</a>.
+If you want to say Hi or learn more about projects I worked on, please reach me at <a href="mailto:micaelagparente@gmail.com?Subject=Hi!" target="_top">micaelagparente@gmail.com</a>. You can also check my <a href="https://www.linkedin.com/in/micaelaparente/">Linkedin</a>.
 
 
