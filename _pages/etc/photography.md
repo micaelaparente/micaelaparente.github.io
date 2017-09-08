@@ -1,13 +1,29 @@
 ---
 layout: page
 title: Etc
-description: I photograph in my free time.
+description: I also enjoy photographing.
 permalink: "/photography/"
 ---
 
-<img src="https://lh3.googleusercontent.com/FYKtbfG9RFIzwLUYrpi6Gee0xJm4mKRdN_QDTvOghyS2SuCG_vQ7A6C_VMqM0cICrLkSrBTyqQK6JROJ7me4GyG_qzx-Sa4SIqby7-F3hpS-Z-QE2jVRps0fTNImA0DWTaXERaoYwD3AcqHIVnSFuFD47BCKF-iz90WCXnP-QQ1kjCSTY_l-NkN1n4vlWcSpzwwVjqbEblvzWyrY4FsNSZs-oZ-lEzk5rf0sZpaB7mFwvr4KNs3R1I6Q7JQP-CzLUjdL-sF-vD3h_yJ2kX7_I9rcFdoztsI-rWxK5yLqO6mLI48A1waPmFxeQJDT_7seqTKHkUiEJM02ui77eptR0A2AEil31xjoJU4E8anD5zBadf2ZcvyFanmC31IESqbFXz-iQpRsHI1ZxaXR5U_DEgtDDmsaOvUj_3fv8aLEnizUreFFDPi2F76Ect_q10B4qmzrkz6DwQ1gZq62yvHnmfIpq7HNbiyf5Jwqn-hwbLrP9HVvc1zwftvEPdGfljhImKix6KTinVbKHYbO_EtKeMoxU7Qnvi5BT-2ENulLFitBXUdps6c7FDvNkaPDE-q4lTshhXP7rdhg9LtVMB_PcjD5IJ2IpwteOJIZwZVnavoVoss-BSfqu3J7c5C5AkdFuZ39Na-A15WTRzLstQw-LpYbVUDr8A3Dhs_iL0lYtAw=w1014-h675-no">
-<p style="margin-top: -10px">Rio de Janeiro, 2016</p>
+<img src="/assets/photo/07.jpg">
+<p style="margin-top: -10px">Utrecht, 2017</p>
 
-<img src="https://lh3.googleusercontent.com/aT_GDNKw2Q8y4uqM9X_WFtlNUJeCAVILedOMCwq0opnqaCyutuuFPdFYPvPhkBNRIIxHtrU4duAZ69TpY3iLAAiUWJD_f6LXGID2diNW3BSF8I090xpyuk0wCbHhE3SS2YXtaXrOZk3gDA_FFYBrWybnPq4NEUkL6zWoDQDlEmfC3B3FTjShpoXsRD22corY6F4s5oFlGfB7B-sRpDW_yGsKbQ3m-d7wdY8tAxVhdx7x3AHelnIxoVa4aFKxCZXxQm0AG-WA-U-6vwX_lpT31EgD-5ooqYsFPmw2rNGyzONxhAokW-3KB3PPjY2lPM2IL7NSbBC2uYNUzVBxeutK9HijfqSMfhZq3mdjeI2KdQLqTA2JM_u0vWDuY498Ockpu_kIZOjZxUHPOreVH6DgdgRJprspmJOTd9P_vGQnzQ6AwgncNxQsevPg6g8UdZPjh5FlcC9feXt5G7DbHkti9K7cI80m29MiDti2g4rBnqlJZg51dlcTXrqocyWKYZAdI7PYBroDTBoitfQAoI8XBPhzszR9PMo0LZf8RoR4L71w7kaDnzxze9tP7Cn8VqQuV6hrXcTp67dbQV5rydfaiDLDIL1qoqfnS18v2KduI3XQ5tyTUsXqoG7vcRfnyRvVICbKkvkSdyDqvWDFzxneDPFbA5nWkljgBnbpRz9wba4=w1017-h675-no">
+<img src="/assets/photo/01.jpg">
+<p style="margin-top: -10px">New York, 2015</p>
+
+<img src="/assets/photo/02.jpg">
+<p style="margin-top: -10px">New York, 2015</p>
+
+<img src="/assets/photo/03.jpg">
+<p style="margin-top: -10px">Rio de Janeiro, 2015</p>
+
+<img src="/assets/photo/05.jpg">
+<p style="margin-top: -10px">Mundaú, 2014</p>
+
+<img src="/assets/photo/04.jpg">
+<p style="margin-top: -10px">Braga, 2012</p>
+
+<img src="/assets/photo/06.jpg">
 <p style="margin-top: -10px">Warsaw, 2012</p>
+
 
