@@ -9,7 +9,7 @@ permalink: "/projects/"
 
 <div class="project-item">
 <a href="/projects/car-selector/">
-<img src="/assets/car.jpg"> <p >Car selector</p></a></div>
+<img src="/assets/car.png"> <p >Car selector</p></a></div>
 
 <div class="project-item">
 <a href="/projects/estadao/">
