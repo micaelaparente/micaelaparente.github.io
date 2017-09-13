@@ -16,7 +16,7 @@ In this pro-bono project from Huge, I worked as the only product strategist in a
 </div></div>
 <strong>The problem</strong>
 
-After going through a <a href="http://www.hugeinc.com/case-study/e-solidario">complete redesign</a>, the main challenge for E-Solidário was to grow their presence and become the go-to place for anyone willing to help a social organization in Brazil. As a small nonprofit organization, this also had to be accomplished with minimal resources.
+After going through a <a href="http://www.hugeinc.com/case-study/e-solidario" target="_blank">complete redesign</a>, the main challenge for E-Solidário was to grow their presence and become the go-to place for anyone willing to help a social organization in Brazil. As a small nonprofit organization, this also had to be accomplished with minimal resources.
 
 <strong>User research</strong>
 
@@ -32,4 +32,4 @@ To reach the business needs, our approach was to focus on organic growth and on 
 - <strong>Quick wins:</strong> Continuous improvements to the website for increasing trust and encouraging social media sharing.
 - <strong>Measurement plan:</strong> Finally, to enable tracking the impact of these actions, we developed a measurement plan with main KPIs and a prioritized analytics implementation guide.
 
-To see this project live, visit E-Solidário's <a href="http://www.e-solidario.com.br/blog/"> blog</a> and <a href="http://www.e-solidario.com.br">website </a>.
+To see this project live, visit E-Solidário's <a href="http://www.e-solidario.com.br/blog/" target="_blank"> blog</a> and <a href="http://www.e-solidario.com.br" target="_blank">website </a>.

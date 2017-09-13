@@ -30,7 +30,7 @@ We envisioned Sportse as a platform with 2 core components: partners and activit
 
 <strong>MVP</strong>
 
-Based on our ambitious vision for Sportse, we scoped our MVP to simply list existing activities for a small set of niche sports in Rio de Janeiro. To do so, we mapped real existing sport activities in the city and used a free website builder to consolidate relevant information about classes, regular practice groups and events. The MVP is actually still live <a href="http://sportse-dev.webflow.io/">here</a>.
+Based on our ambitious vision for Sportse, we scoped our MVP to simply list existing activities for a small set of niche sports in Rio de Janeiro. To do so, we mapped real existing sport activities in the city and used a free website builder to consolidate relevant information about classes, regular practice groups and events. The MVP is actually still live <a href="http://sportse-dev.webflow.io/" target="_blank">here</a>.
 
 <strong>The end</strong>
 
