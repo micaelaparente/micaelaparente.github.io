@@ -1,6 +1,6 @@
 ---
 layout: sub-page
-title: Estadão (2015)
+header: Estadão (2015)
 description: Mobile strategy for Estadão.
 permalink: "/projects/estadao/"
 ---

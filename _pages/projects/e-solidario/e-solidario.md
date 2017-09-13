@@ -1,6 +1,6 @@
 ---
 layout: sub-page
-title: E-Solidário (2015)
+header: E-Solidário (2015)
 description: Helping more Brazilians connect to social organizations.
 permalink: "/projects/e-solidario/"
 ---

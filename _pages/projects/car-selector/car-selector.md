@@ -1,6 +1,6 @@
 ---
 layout: sub-page
-title: Car Selector (2017)
+header: Car Selector (2017)
 description: Using NLP to help users choose a car.
 permalink: "/projects/car-selector/"
 ---

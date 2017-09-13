@@ -1,6 +1,6 @@
 ---
 layout: sub-page
-title: Sportse (2016)
+header: Sportse (2016)
 description: Helping people practice sports together.
 permalink: "/projects/sportse/"
 ---
