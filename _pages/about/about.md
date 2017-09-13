@@ -2,7 +2,7 @@
 layout: page
 title: About
 header: Hello there.
-permalink: "/about"
+permalink: "/about/"
 ---
 I'm Micaela, a Brazilian/Portuguese engineer living in the Netherlands, where I'm finishing my master's in Business Informatics and interning as a <strong>Product Manager</strong> at Elsevier. 
 
