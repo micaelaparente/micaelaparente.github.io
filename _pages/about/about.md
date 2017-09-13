@@ -5,9 +5,17 @@ description: Who I am and how to contact me.
 permalink: "/about/"
 ---
 
-I'm Micaela, a Brazilian/Portuguese engineer living in the charming city of Utrecht, where I'm finishing my master's in Information Science. 
-I work at the intersection of product and data, and I love developing new solutions that are good for businesses and users.
+I'm Micaela, a Brazilian/Portuguese engineer living in the Netherlands, where I'm finishing my master's in Business Informatics and interning as a <strong>Product Manager</strong> at Elsevier. 
 
+Before, I worked as a <strong>Product Strategist</strong> at Huge, where I helped reknown brands reach business goals by rethinking their digital experience. I'm also a skilled data analyst and I love to photograph on my free time.
+
+I get energized by...
+- ...automating things for other people around me.
+- ...uncovering user needs after a round of interviews.
+- ...discussing candidate solutions for a business problem.
+- ...finding data sources for answering a question.
+- ...learning about a new API or spreadsheet integration.
+- ...sharing references and interesting reads with others.
 
 <div class="masthead">
     
@@ -39,6 +47,8 @@ Some of the companies I already solved problems to:
     
     </div>
 
-If you want to say Hi or learn more about projects I worked on, please reach me at <a href="mailto:micaelagparente@gmail.com?Subject=Hi!" target="_top">micaelagparente@gmail.com</a>. You can also check my <a href="https://www.linkedin.com/in/micaelaparente/">Linkedin</a>.
 
 
+Check out some of the <a href="/projects">projects</a> I worked on, or say "Hi!" at <a href="mailto:micaelagparente@gmail.com?Subject=Hi!" target="_top">micaelagparente@gmail.com</a>.
+<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+<i class="em em-v"></i>
