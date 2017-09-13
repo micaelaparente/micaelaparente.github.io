@@ -1,10 +1,9 @@
 ---
 layout: page
 title: About
-description: Who I am and how to contact me.
-permalink: "/about/"
+header: Hello there.
+permalink: "/about"
 ---
-
 I'm Micaela, a Brazilian/Portuguese engineer living in the Netherlands, where I'm finishing my master's in Business Informatics and interning as a <strong>Product Manager</strong> at Elsevier. 
 
 Before, I worked as a <strong>Product Strategist</strong> at Huge, where I helped reknown brands reach business goals by rethinking their digital experience. I'm also a skilled data analyst and I love to photograph on my free time.

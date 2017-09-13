@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+header: Projects
 description: Some of the projects I worked on, either professionally or for fun.
 permalink: "/projects/"
 ---

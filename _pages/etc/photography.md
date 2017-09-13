@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Etc
+header: Etc
 description: I also enjoy photographing.
 permalink: "/photography/"
 ---
