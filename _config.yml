@@ -27,4 +27,8 @@ gems:
   - redcarpet
   - jekyll-gist
   - pygments.rb
+
+# Google Analytics
+google_analytics: UA-106553253-1
+
   
