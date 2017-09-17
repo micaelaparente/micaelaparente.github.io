@@ -46,6 +46,6 @@ Companies I worked with:
 
 
 
-Check out some of the <a href="/projects">projects</a> I worked on, or say "Hi!" at <a href="mailto:micaelagparente@gmail.com?Subject=Hi!" target="_top">micaelagparente@gmail.com</a>.
+Check out some of <a href="/projects">my projects</a>, or say "Hi!" at <a href="mailto:micaelagparente@gmail.com?Subject=Hi!" target="_top">micaelagparente@gmail.com</a>.
 <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
 <i class="em em-v"></i>
