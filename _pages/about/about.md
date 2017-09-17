@@ -4,9 +4,7 @@ title: About
 header: Hello there.
 permalink: "/about/"
 ---
-I'm Micaela, a Brazilian/Portuguese engineer living in the Netherlands, where I'm finishing my master's in Business Informatics and interning as a <strong>Product Manager</strong> at Elsevier. 
-
-Before, I worked as a <strong>Product Strategist</strong> at Huge, where I helped reknown brands reach business goals by rethinking their digital experience. I'm also a skilled data analyst and I love to photograph on my free time.
+I'm Micaela, a Brazilian/Portuguese engineer living in the charming city of Utrecht, the Netherlands. I have 4 years experience in product management and data analysis roles, and I love to photograph in my free time.
 
 I get energized by...
 - ...automating things for other people around me.
@@ -20,7 +18,7 @@ I get energized by...
     
     </div>
 
-Some of the companies I already solved problems to:
+Companies I worked with:
 
 <div class="brands-list">
 
