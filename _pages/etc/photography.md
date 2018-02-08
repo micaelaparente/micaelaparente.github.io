@@ -2,7 +2,7 @@
 layout: page
 title: Etc
 header: Etc
-description: I also enjoy photographing. Some of my photos are on [Unsplash](https://unsplash.com/@mparente).
+description: I also enjoy photographing. 
 permalink: "/photography/"
 ---
 
@@ -25,5 +25,5 @@ permalink: "/photography/"
 <img src="/assets/photo/06.jpg">
 <p style="margin-top: -10px">Warsaw, 2012</p>
 
-
+Some of my photos are on [Unsplash](https://unsplash.com/@mparente).
 
