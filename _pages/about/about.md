@@ -4,7 +4,7 @@ title: About
 header: Hello there.
 permalink: "/about/"
 ---
-I'm Micaela, a Brazilian/Portuguese engineer living in the charming city of Utrecht, the Netherlands. Having worked in product management and data analysis roles, I like to blend both to create helpful products for users and businesses. I also love to photograph in my free time.
+I'm Micaela, a Brazilian/Portuguese Product Owner living in Amsterdam. My background combines Engineering and Data Science, and I like to colaborate with multidisciplinary teams to design elegant solutions to users problems. On my free time, I love to photograph -- <a href="https://unsplash.com/@mparente">you can actually use my photos for free.
 
 I get energized by...
 - ...automating things for other people around me.
