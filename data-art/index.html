@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>data art — mica</title>
+<meta name="description" content="Data art by Micaela Parente: maps and posters about Rio de Janeiro, built from open data.">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%208%208%22%20shape-rendering%3D%22crispEdges%22%3E%3Crect%20x%3D%222%22%20y%3D%220%22%20width%3D%224%22%20height%3D%221%22%20fill%3D%22%23b5402a%22/%3E%3Crect%20x%3D%221%22%20y%3D%221%22%20width%3D%226%22%20height%3D%221%22%20fill%3D%22%23b5402a%22/%3E%3Crect%20x%3D%220%22%20y%3D%222%22%20width%3D%228%22%20height%3D%221%22%20fill%3D%22%23b5402a%22/%3E%3Crect%20x%3D%220%22%20y%3D%223%22%20width%3D%228%22%20height%3D%221%22%20fill%3D%22%23b5402a%22/%3E%3Crect%20x%3D%220%22%20y%3D%224%22%20width%3D%228%22%20height%3D%221%22%20fill%3D%22%23b5402a%22/%3E%3Crect%20x%3D%220%22%20y%3D%225%22%20width%3D%228%22%20height%3D%221%22%20fill%3D%22%23b5402a%22/%3E%3Crect%20x%3D%221%22%20y%3D%226%22%20width%3D%226%22%20height%3D%221%22%20fill%3D%22%23b5402a%22/%3E%3Crect%20x%3D%222%22%20y%3D%227%22%20width%3D%224%22%20height%3D%221%22%20fill%3D%22%23b5402a%22/%3E%3C/svg%3E">
+<link rel="icon" type="image/png" sizes="32x32" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAWklEQVR4nGNkIAC2Omj9J6QGH/A+cI0RnzwTJYZTA4w6ACN+KI1zQgA9TQx4CIw6gJHWcU4IDHgIjDpg1AGjDhh1wKgDRh0w6oDRNuGoA/D22xgYRvuGI8ABALBZElq0jiUwAAAAAElFTkSuQmCC">
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "zalnm7loyz");
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400;500&family=Geist:wght@400&display=swap" rel="stylesheet">
+<style>
+  @font-face {
+    font-family: "Geist Pixel";
+    src: url(../fonts/geist-pixel.woff2) format("woff2");
+    font-display: swap;
+  }
+  :root {
+    --paper: #f8f8f4;
+    --ink: #161616;
+    --muted: #6b6b66;
+    --rule: #dcdcd4;
+    --red: #b5402a;
+    --blue: #3a4fd0;
+    --pixel: "Geist Pixel", "Geist Mono", ui-monospace, monospace;
+    --mono: "Geist Mono", ui-monospace, monospace;
+    --sans: "Geist", system-ui, sans-serif;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { background: var(--paper); }
+  body {
+    color: var(--ink);
+    font: 400 15px/1.6 var(--mono);
+    -webkit-font-smoothing: antialiased;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 28px clamp(20px, 5vw, 48px) 40px;
+  }
+  a { color: inherit; text-decoration: none; }
+  .dot {
+    display: inline-block; width: .55em; height: .55em;
+    background: var(--red);
+    clip-path: polygon(25% 0,75% 0,75% 12.5%,87.5% 12.5%,87.5% 25%,100% 25%,100% 75%,87.5% 75%,87.5% 87.5%,75% 87.5%,75% 100%,25% 100%,25% 87.5%,12.5% 87.5%,12.5% 75%,0 75%,0 25%,12.5% 25%,12.5% 12.5%,25% 12.5%);
+  }
+  .redlink {
+    font: 400 17px/1.4 var(--sans);
+    color: var(--red);
+    display: inline-flex; gap: 8px;
+    border-bottom: 1px solid transparent;
+    transition: border-color .15s;
+  }
+  .redlink:hover { border-color: var(--red); }
+
+  .top { display: flex; justify-content: space-between; align-items: center; gap: 16px; }
+  .home { font: 400 24px/1 var(--pixel); display: inline-flex; align-items: center; transition: color .15s; }
+  .home .dot { width: .42em; height: .42em; margin-left: .08em; }
+  .home:hover { color: var(--red); }
+
+  .intro { padding: clamp(40px, 7vh, 72px) 0 32px; }
+  .intro h1 { font: 400 clamp(40px, 7.4vw, 84px)/1.04 var(--pixel); letter-spacing: -.02em; }
+  .intro p { margin-top: 14px; color: var(--muted); font-size: 14px; }
+
+  /* projects: the wide map on its own row, the two posters side by side */
+  .projects { display: grid; grid-template-columns: 1fr 1fr; gap: 56px 24px; }
+  .proj { display: flex; flex-direction: column; }
+  .proj.wide { grid-column: 1 / -1; }
+  .ph { display: block; overflow: hidden; background: #e8e8e2; }
+  .ph img { display: block; width: 100%; height: auto; transition: transform .5s ease; }
+  .proj:hover .ph img { transform: scale(1.02); }
+  .meta { display: flex; flex-direction: column; align-items: flex-start; gap: 10px; margin-top: 16px; flex: 1; }
+  .meta h2 { font: 400 22px/1.15 var(--pixel); letter-spacing: -.01em; }
+  .meta p { color: var(--muted); font-size: 14px; max-width: 60ch; }
+  .meta .series { font: 500 12px/1 var(--mono); letter-spacing: .12em; text-transform: uppercase; color: var(--muted); }
+  .meta .redlink { margin-top: auto; }
+  .proj:hover .redlink { border-color: var(--red); }
+  .proj:focus-visible { outline: 2px solid var(--red); outline-offset: 4px; }
+  @media (min-width: 861px) {
+    .proj.wide .meta { flex-direction: row; justify-content: space-between; align-items: flex-end; gap: 32px; }
+    .proj.wide .meta .redlink { margin-top: 0; white-space: nowrap; }
+  }
+  @media (max-width: 680px) { .projects { grid-template-columns: 1fr; gap: 44px; } }
+
+  footer { margin-top: 64px; padding-top: 28px; border-top: 1px solid var(--rule); display: flex; justify-content: flex-end; }
+  @media (prefers-reduced-motion: reduce) { .ph img { transition: none; } }
+</style>
+</head>
+<body>
+
+<div class="top">
+  <a class="home" href="../">mica<span class="dot"></span></a>
+</div>
+
+<div class="intro">
+  <h1>data art</h1>
+  <p>Maps and posters about how Rio lives, built from open data.</p>
+</div>
+
+<div class="projects">
+  <a class="proj wide" href="https://micaelaparente.github.io/nomes-fantasia/">
+    <div class="ph"><img src="img/nomes-fantasia.jpg" width="1600" height="812" alt="Pixel-grid map of Rio de Janeiro with colored squares marking clusters of street businesses by naming style"></div>
+    <div class="meta">
+      <div>
+        <h2>nomes fantasia</h2>
+        <p>An atlas of Rio de Janeiro mapping ~52k street businesses by the kind of name they use (diminutives, family ties, English words) and where each kind clusters in the city.</p>
+      </div>
+      <span class="redlink">view project <span>→</span></span>
+    </div>
+  </a>
+
+  <a class="proj" href="https://micaelaparente.github.io/diversidade-do-rio/#arvores">
+    <div class="ph"><img src="img/arvores.jpg" width="1000" height="1400" loading="lazy" alt="Poster collage of halftone flower photos in coral, purple, magenta, red and yellow bands, one color per tree species"></div>
+    <div class="meta">
+      <span class="series">diversidade do rio · poster</span>
+      <h2>árvores em flor</h2>
+      <p>Which trees bloom in Rio, week by week across the year, from 20 years of iNaturalist records. Each color is a tree, collaged from photos of its own flowers.</p>
+      <span class="redlink">view project <span>→</span></span>
+    </div>
+  </a>
+
+  <a class="proj" href="https://micaelaparente.github.io/diversidade-do-rio/#aves">
+    <div class="ph"><img src="img/aves.jpg" width="1000" height="1400" loading="lazy" alt="Poster of flocks of halftone bird cutouts in blue, red and yellow, one color per migration pattern"></div>
+    <div class="meta">
+      <span class="series">diversidade do rio · poster</span>
+      <h2>aves migratórias</h2>
+      <p>The 19 most-recorded migratory birds in Rio through the year: blue for those escaping the northern winter, red for the southern winter, yellow for those that come to nest.</p>
+      <span class="redlink">view project <span>→</span></span>
+    </div>
+  </a>
+</div>
+
+<footer>
+  <a class="redlink" href="../">back to home <span>→</span></a>
+</footer>
+
+</body>
+</html>
