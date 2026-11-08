@@ -87,11 +87,10 @@
     gap: 24px;
     padding: 36px 0;
     border-top: 1px solid var(--rule);
-    align-items: baseline;
   }
   @media (max-width: 680px) { section { grid-template-columns: 1fr; gap: 16px; } }
 
-  .services { display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: auto auto; column-gap: 28px; }
+  .services { display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: auto auto; column-gap: 24px; }
   .services > div { display: grid; grid-row: span 2; grid-template-rows: subgrid; row-gap: 0; }
   @media (max-width: 860px) {
     .services { grid-template-columns: 1fr; grid-template-rows: none; row-gap: 22px; }
@@ -99,6 +98,7 @@
   }
   .services h3 {
     font: 400 22px/1.15 var(--pixel);
+    letter-spacing: -.01em;
     margin-bottom: 10px;
   }
   .services p, .muted { color: var(--muted); font-size: 14px; }
