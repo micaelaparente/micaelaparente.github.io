@@ -166,9 +166,12 @@
   .ph.card { aspect-ratio: 4 / 5; }
   .ph.map img { object-position: 64% 50%; }
   .dataart .da-meta h4 { margin-bottom: 4px; }
+  .dataarts .dataart { display: flex; flex-direction: column; }
+  .dataarts .da-meta { flex: 1; }
+  .dataarts .da-meta .redlink { margin-top: auto; }
   @media (max-width: 860px) {
     .dataarts { grid-template-columns: 1fr; gap: 20px; }
-    .dataart { display: grid; grid-template-columns: 120px 1fr; gap: 16px; align-items: start; }
+    .dataarts .dataart { display: grid; grid-template-columns: 120px 1fr; gap: 16px; align-items: start; }
     .dataart .da-meta { margin-top: 0; }
   }
   .dataart:hover .redlink { border-color: var(--red); }
@@ -314,7 +317,7 @@
         <div class="da-meta">
           <div>
             <h4>nomes fantasia</h4>
-            <p class="muted">An atlas of Rio de Janeiro mapping ~52k street businesses by the kind of name they use (diminutives, family ties, English words) and where each kind clusters in the city.</p>
+            <p class="muted">Rio's ~52k street businesses, mapped by the names they use.</p>
           </div>
           <span class="redlink">view project <span>→</span></span>
         </div>
@@ -324,7 +327,7 @@
         <div class="da-meta">
           <div>
             <h4>árvores em flor</h4>
-            <p class="muted">Which trees bloom in Rio, week by week across the year, from 20 years of iNaturalist records. Each color is a tree, collaged from photos of its own flowers.</p>
+            <p class="muted">Which trees bloom in Rio, week by week, across the year.</p>
           </div>
           <span class="redlink">view project <span>→</span></span>
         </div>
@@ -334,7 +337,7 @@
         <div class="da-meta">
           <div>
             <h4>aves migratórias</h4>
-            <p class="muted">The 19 most-recorded migratory birds in Rio through the year: blue for those escaping the northern winter, red for the southern winter, yellow for those that come to nest.</p>
+            <p class="muted">Rio's 19 most-recorded migratory birds, through the year.</p>
           </div>
           <span class="redlink">view project <span>→</span></span>
         </div>
