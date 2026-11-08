@@ -55,7 +55,8 @@
     color: var(--blue);
     letter-spacing: -.01em;
   }
-  .status { display: inline-flex; align-items: center; gap: 10px; }
+  .status { display: inline-flex; align-items: baseline; gap: 10px; line-height: 1.6; }
+  .status .dot { flex: none; }
   .dot {
     display: inline-block; width: .55em; height: .55em;
     background: var(--red);
@@ -90,6 +91,7 @@
     padding: 36px 0;
     border-top: 1px solid var(--rule);
   }
+  @media (max-width: 680px) { section { grid-template-columns: 1fr; gap: 16px; } }
 
   .services { display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: auto auto; column-gap: 24px; }
   .services > div { display: grid; grid-row: span 2; grid-template-rows: subgrid; row-gap: 0; }
